@@ -6,7 +6,7 @@ After you have successfully installed the [Xero Extension](http://symphonyextens
 In this file you will be able to:
 
 - Create new Contacts in Xero;
-- Create new Invenotry Items;
+- Create new Inventory Items;
 - Create new Sales Invoices;
 - Create new Purchase Invoices.
 
