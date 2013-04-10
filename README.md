@@ -10,7 +10,7 @@ In this file you will be able to:
 - Create new Sales Invoices;
 - Create new Purchase Invoices.
 
-Feel free to copy the file and change it.
+Feel free to copy the file and change it. I usually copy under "/workspace/libs".
 
 Cheers,
 
